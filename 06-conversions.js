@@ -7,6 +7,7 @@ const numberString = "456";
 console.log(number===numberString);
 console.log(number==numberString);
 
+console.log(number+numberString);
 
-console.log(number+Number(numberString));
 // conversão explícita
+console.log(number+Number(numberString));
